@@ -1,0 +1,5 @@
+name = "hkd-dewas-qr-code"
+compatibility_date = "2026-10-30"
+
+[assets]
+directory = "."
