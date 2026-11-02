@@ -1,49 +1,48 @@
 # HKD Dewas QR Code
 
-Website deployment guide.
+A digital QR Code website for HKD Dewas, designed to give visitors quick and convenient access to business information.
 
-## Hosting Platforms
+Live Website: https://hkd-dewas-qr-code.vercel.app/
 
-- Vercel
-- Netlify
-- Cloudflare Pages
+# Project Overview
 
-## GitHub Setup
+HKD Dewas QR Code provides a simple, responsive digital experience that visitors can open by scanning a QR Code.
 
-1. Create a GitHub repository.
-2. Upload the website source code.
-3. Push all changes to the main branch.
+# Features
 
-## Vercel Deployment
-
-1. Login to Vercel.
-2. Import the GitHub repository.
-3. Select the correct framework.
-4. Configure the build settings according to the project.
-5. Click Deploy.
-
-## Netlify Deployment
-
-1. Login to Netlify.
-2. Add a new project.
-3. Import the GitHub repository.
-4. Configure the publish directory.
-5. Deploy the website.
-
-## Cloudflare Pages Deployment
-
-1. Login to Cloudflare.
-2. Open Workers & Pages.
-3. Create a Pages project.
-4. Connect the GitHub repository.
-5. Configure the build settings.
-6. Deploy.
-
-## SEO
-
-- robots.txt
-- sitemap.xml
+- Responsive layout for mobile, tablet and desktop
+- QR Code-based access to the website
+- Simple and easy-to-use interface
+- SEO configuration
 - Custom 404 page
 
-Update YOUR-DOMAIN.com in sitemap.xml and robots.txt
-after connecting the actual domain.
+# Built With
+
+- HTML5
+- CSS3
+- JavaScript
+
+# Deployment
+
+Current hosting: Vercel
+
+The project can also be deployed on Netlify or Cloudflare Pages.
+
+# SEO Files
+
+| File | Purpose |
+| `robots.txt` | Provides crawling instructions to search engines |
+| `sitemap.xml` | Helps search engines discover website URLs |
+| `404.html` | Displays a custom page for unavailable URLs |
+
+> When connecting a custom domain, update the website URL in `robots.txt` and `sitemap.xml`.
+
+# Project Links
+
+- Live Website: https://hkd-dewas-qr-code.vercel.app/
+- GitHub Repository: https://github.com/Hdubey14/hkd-dewas-qr-code
+
+
+
+HKD Dewas QR Code  
+*Simple Access. Smarter Digital Experience.*
